@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseStorage</string>
+    <string name="uploaded_image">Uploaded Image</string>
+    <string name="add_image">Add image</string>
+</resources>
